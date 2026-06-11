@@ -22,6 +22,7 @@ This repo follows the **Logic/Data Separation** principle:
 | `.cursorrules` | `/home/ubuntu/agent-data/templates/.cursorrules` |
 | `CLAUDE.md` | `/home/ubuntu/agent-data/templates/CLAUDE.md` |
 | `STATUS.md` | `/home/ubuntu/agent-data/projects/support-me-block/STATUS.md` |
+| `memory/` | `/home/ubuntu/agent-data/projects/support-me-block/memory` |
 
 ## File Structure
 
@@ -32,7 +33,7 @@ This repo follows the **Logic/Data Separation** principle:
 ├── .gitignore          # Excludes agent data files (STATUS.md, memory/, .agent)
 ├── CLAUDE.md           # Symlink → project directives
 ├── STATUS.md           # Symlink → project status tracking
-└── .aider.instructions.md   # Symlink → AI editor instructions
+├── .aider.instructions.md   # Symlink → AI editor instructions
 └── .cursorrules        # Symlink → Cursor IDE rules
 ```
 
