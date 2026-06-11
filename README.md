@@ -50,4 +50,7 @@ No build or install steps required. The repository is self-describing through:
 
 ## Git History
 
-Single initial commit: `clean: add agent data to .gitignore`
+| Commit | Message |
+|--------|---------|
+| `cc8dda9` | chore: add README, CLAUDE.md, and template symlinks to repo |
+| `7d5337a` | clean: add agent data to .gitignore |
