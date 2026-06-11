@@ -53,6 +53,7 @@ No build or install steps required. The repository is self-describing through:
 
 | Commit | Message |
 |--------|---------|
+| `ddfbca5` | docs: update README git history with latest commits |
 | `0e90280` | chore: add memory symlink to README and fix file tree diagram |
 | `b60c8f8` | docs: update README git history section with both commits |
 | `cc8dda9` | chore: add README, CLAUDE.md, and template symlinks to repo |
