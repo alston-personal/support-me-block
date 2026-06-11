@@ -53,6 +53,7 @@ No build or install steps required. The repository is self-describing through:
 
 | Commit | Message |
 |--------|---------|
+| `2c831ae` | chore: add latest commit to README git history table |
 | `7efdb4a` | chore: add latest commit to README git history table |
 | `5bcf371` | chore: add latest commit to README git history table |
 | `7185887` | chore: add latest commit to README git history table |
