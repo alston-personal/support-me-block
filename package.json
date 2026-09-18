@@ -1,0 +1,13 @@
+{
+  "name": "@milkcat/project-utility-kit",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Shared support and user-feedback UI primitives for Milkcat Studio projects.",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "peerDependencies": {
+    "react": ">=18"
+  }
+}
